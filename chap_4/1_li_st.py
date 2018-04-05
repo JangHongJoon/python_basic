@@ -13,7 +13,7 @@ print(array[1])
 print(array[2])
 print(array[1:3]) # 범위 1번방에서 3번방까지
 
-#리스트의 요소 변경
+#리스트의 요소 변경 
 array[0]="변경" #0번방에 '273' 에서 '변경'
 print(array)
 
