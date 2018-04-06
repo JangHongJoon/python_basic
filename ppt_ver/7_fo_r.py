@@ -6,4 +6,4 @@ print()
 array=[273,32,103,57,52]
 #리스트의 길이로 for문 범위 적용
 for i in range(len(array)):
-    print("{}번째 반복 : {}".format(1,array[i]))
+    print("{}번째 반복 : {}".format(i,array[i]))
