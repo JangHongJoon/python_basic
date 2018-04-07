@@ -10,7 +10,7 @@ print(False and True)
 print(False and False)
 print()
 
-#or 연산자 : 피연산자 
+#or 연산자 : 피연산자 둘 중 한개만 참일 때 True 출력한다
 print(True or True) 
 print(True or False)
 print(False or True)
