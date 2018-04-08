@@ -1,6 +1,6 @@
 #무한반복 -> 항상 참이기 때문에
 '''
-while True:
+while True :
     print(".",end='')
 
 '''
