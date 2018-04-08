@@ -11,7 +11,7 @@ array[0] = "changed"
 print(array)
 
 #리스트를 연산합니다
-b=[1,2,3]
+b = [1,2,3]
 output = array + b
 print(output)
 
