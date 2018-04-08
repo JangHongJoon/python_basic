@@ -1,5 +1,5 @@
 #딕셔너리를 선언합니다
-dictionary={
+dictionary = {
     "이름":"Paul",
     "나이":"20",
     "거주지":"Gimhae",
@@ -12,7 +12,7 @@ print(dictionary)
 print(dictionary["이름"])
 
 #딕셔너리에 키와 값을 추가합니다
-dictionary["장래희망"]="뮤지션"
+dictionary["장래희망"] = "뮤지션"
 print(dictionary)
 
 #딕셔너리의 요소를 제거합니다
