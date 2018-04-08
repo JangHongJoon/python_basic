@@ -7,6 +7,6 @@ numbers = [5,15,6,20,7,25,0,50]
 for i in numbers :
     if i == 0:
         break
-    elif i % 5 != 0:
+    elif i % 5 != 0 :
         continue
     print(i)
