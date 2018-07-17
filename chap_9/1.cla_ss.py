@@ -1,11 +1,11 @@
-class Student:
-    pass
+class Person:
+    def greeting(self):
+        print('안녕하세요.')
 
-student = Student()
 
-students= [
-    Student(),
-    Student(),
-    Student(),
-    Student()
-]
+class Student(Person):
+    def __init__(self):
+        Person.__init__(5)
+
+james = Student()
+james.greeting()
